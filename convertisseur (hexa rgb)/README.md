@@ -3,4 +3,4 @@
 
 
 
-<a href="https://youtu.be/l02K5fm2Uqw">vidéo Youtube</a>
+rapide mise en place <a href="https://youtu.be/l02K5fm2Uqw">vidéo Youtube</a>
